@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="CODING_STANDARD" value="EC" />
+      <option name="CHECK_INC" value="false" />
+      <option name="CHECK_JS" value="false" />
+      <option name="CHECK_CSS" value="false" />
+      <option name="EXTENSIONS" value="php" />
+    </inspection_tool>
+    <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  </profile>
+</component>
